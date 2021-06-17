@@ -1,9 +1,9 @@
 # BankNation
 -->This application is a type of bank service where there are two user accounts namely:
-* 1)Jonas
+*1) Jonas
   * User - js
   * Id - 1111
-* 2)Jessica
+*2) Jessica
   * User - jd
   * Id - 2222
   
