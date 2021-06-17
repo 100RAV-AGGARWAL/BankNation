@@ -1,9 +1,9 @@
 # BankNation
--->This application is a type of bank service where there are two user accounts namely: \n
-1)Jonas
+-->This application is a type of bank service where there are two user accounts namely:
+*1)Jonas
   User - js
-  Id - 1111\n
-2)Jessica
+  Id - 1111
+*2)Jessica
   User - jd
   Id - 2222
   
